@@ -1,0 +1,685 @@
+* {
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+
+}
+
+.nomre {
+    cursor: pointer;
+}
+
+
+.arxa1 {
+    background-color: #1C1C1C;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.callemail {
+    color: #5C5C5E;
+    padding-left: 50px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 7px;
+    width: 600px;
+    padding-top: 5px;
+
+}
+
+.email {
+    color: white;
+    padding-left: 20px;
+}
+
+.socialfaq {
+    padding-top: 5px;
+    display: flex;
+    font-size: 7px;
+    padding-right: 50px;
+
+}
+
+.link {
+    color: #5C5C5E;
+}
+
+.social {
+    text-decoration: none;
+}
+
+.faq {
+    color: #5C5C5E;
+    padding-left: 40px;
+}
+
+.create {
+    padding-top: 200px;
+    padding-left: 50px;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+.navbar {
+    padding-top: 20px;
+    background-color: #F9F9F9;
+    margin: 0;
+    ;
+}
+
+.logo {
+    cursor: pointer;
+    font-size: 5px;
+    width: 240px;
+    height: 22px;
+}
+
+.imgul {
+    background-color: #F9F9F9;
+    width: auto;
+    padding-top: 10px;
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    position: relative;
+    align-items: center;
+    height: 100%;
+    padding: 0 60px;
+}
+
+ul {
+    display: flex;
+    padding-right: 220px;
+    padding-bottom: 30px;
+
+}
+
+li a {
+    margin: 10px;
+    color: #5C5C5E;
+    font-size: 20px;
+}
+
+.i {
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.navbar {
+    background-color: #F9F9F9;
+    margin: 0;
+}
+
+.pa {
+    background-image: url(./home-5-video-img.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    width: 100%;
+    height: 400px;
+    color: white;
+    font-size: 40px;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 330px;
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.imgg {
+    border-radius: 15px;
+    width: 330px;
+    height: 300px;
+}
+
+.buton {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 20px;
+    border: 1px solid;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.butonlar .buton {
+    width: 150px;
+    height: 40px;
+}
+
+.cardlar {
+    display: flex;
+    justify-content: space-between
+}
+
+.certified {
+    padding-top: 50px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.logolar {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 80px;
+}
+
+.loremimg {
+    display: flex;
+    padding-bottom: 10px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.img5 {
+    border-radius: 15px;
+    height: 500px;
+
+}
+
+.lorem1 {
+    text-align: justify;
+}
+
+.h11 {
+    font-size: 30px;
+    padding-right: 30px;
+}
+
+.lorem2 {
+    font-size: 20px;
+    width: 500px;
+    padding-right: 70px;
+}
+
+.navbar-2 {
+    background-color: #F9F9F9;
+    margin: 0;
+    height: 700px;
+}
+
+.bene {
+    width: 500px;
+}
+
+.benefitis {
+    font-size: 30px;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+
+.nomre1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90px;
+    font-weight: 90;
+}
+
+.lom {
+    width: 200px;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.nomlom {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 20px;
+    font-size: 10px;
+}
+
+.nomreler {
+    display: flex;
+    justify-content: space-between;
+}
+
+.taklor {
+    width: 490px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.imgi {
+    width: 460px;
+    border-radius: 15px;
+    padding-bottom: 20px;
+}
+
+
+
+ 
+
+.button {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 20px;
+    border: 1px solid;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+.butonn .button {
+    width: 200px;
+    height: 40px;
+}
+
+.take {
+    font-family: sans-serif;
+}
+
+.imgtak {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.view {
+    font-family: sans-serif;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.qaraa {
+    border-radius: 10px;
+    width: 350px;
+    height: 200px;
+}
+
+.entrep {
+    color: #000000;
+    padding-top: 20px;
+    font-size: 27px;
+}
+
+.qara {
+    transition: 0.3s;
+    width: 350px;
+}
+
+.linkler {
+    padding: 2px 16px;
+}
+
+.balacalar {
+    padding-bottom: 10px;
+    /* color: #A8A8A8; */
+}
+
+.fa-sharp1 {
+    color: #FF6839;
+}
+
+.fa-sharp2 {
+    color: #FF6839;
+}
+
+.fa-sharp3 {
+    color: #FF6839;
+}
+
+.fa-sharp4 {
+    color: #a8a8a8;
+}
+
+.fa-sharp5 {
+    color: #a8a8a8;
+}
+
+
+.fa-sharp0 {
+    color: #FF6839;
+}
+
+.coaching {
+    color: #000000;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.qara2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 200px;
+}
+
+.qara2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.free {
+    color: orangered;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.butoni {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 20px;
+    border: 1px solid;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.butonii .butoni {
+    width: 200px;
+    height: 40px;
+}
+
+.butoon {
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+.butonsoon {
+    background-color: transparent;
+    color: rgb(245, 239, 239);
+    border-radius: 20px;
+    border: 1px solid rgb(240, 236, 236);
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.butonson .butonsoon {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.butonson {
+    padding-top: 50px;
+}
+
+.reng {
+    background-image: url(./group-1467.jpeg);
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+.highh {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: justify;
+    color: white;
+}
+
+.axrinci {
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #050000;
+    height: 500px;
+    font-family: sans-serif;
+    color: #A8A8A8;
+}
+
+.axrinciloqo {
+    padding-top: 30px;
+    width: 170px;
+    height: 20px;
+    font-family: sans-serif;
+}
+
+.sekilyani {
+    margin-left: -100px;
+    padding-top: 200px;
+}
+
+.cardlar5 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cardlar6 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.tech {
+    padding-left: 100px;
+    color: #A8A8A8;
+    font-family: sans-serif;
+    margin-top: -50px;
+}
+
+.willclara {
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #A8A8A8;
+}
+
+.our {
+    display: block;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+.alt-xett-son {
+    color: #A8A8A8;
+    padding-top: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .imgi {
+        width: 100%;
+    }
+    .logo{
+        padding-bottom: 50px;
+    }
+    .ucxett {
+        padding-bottom: 50px;
+    }
+    .create {
+        font-size: 30px;
+        padding-top: 300px;
+        padding-left: 50px;
+    }
+    .telefonyari {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .cardlar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .benefitis {
+        padding-top: 350px;
+    }
+
+    .taklor {
+        width: 100%;
+    }
+
+    .cardlar6 {
+        display: block;
+        width: 100%;
+    }
+
+    .butonn {
+        
+        text-align: center;
+    }
+
+    .taklor {
+        font-family: sans-serif;
+        font-size: 30px;
+    }
+    .cardlar5 {
+        display: block;
+        width: 100%;
+    }
+
+    .imgul {
+        padding: 0px;
+    }
+
+    .sekil {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .haa {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .logolar {
+        display: block;
+        text-align: center;
+    }
+
+    .arxa1 {
+        display: none;
+    }
+
+    .nomreler {
+        display: block;
+    }
+
+    .navbarr {
+        display: none;
+    }
+
+    .loremimg {
+        display: block;
+        padding-top: 0px;
+    }
+
+    .h11 {
+        padding-right: 0px;
+        font-size: 15px;
+    }
+
+    .lorem2 {
+        width: 100%;
+        padding-right: 0px;
+    }
+
+    .lorem1 {
+        text-align: block;
+    }
+
+    .img5 {
+        width: 100%;
+        padding-top: 50px;
+    }
+
+    .bene {
+        width: 100%;
+    }
+
+    .i {
+        align-content: flex-end;
+    }
+
+    .pa {
+        width: 100%;
+    }
+
+    .cardlar {
+        display: block;
+        width: 100%;
+    }
+
+    .sekilyani {
+        display: none;
+    }
+
+    .imgtak {
+        display: block;
+    }
+    .axrnci2022{
+        height: auto;
+    }
+    .axrinci {
+        text-align: justify;
+        display: block;
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+
+    .reng {
+        display: block;
+        height: auto;
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 35px;
+    }
+
+    .highh {
+      font-family: sans-serif;
+    }
+
+    .butonson {
+        padding-bottom: 50px;
+    }
+
+    .qara {
+        width: 100%;
+    }
+
+    .qaraa {
+        width: 100%;
+    }
+
+    .card {
+        width: 100%;
+
+    }
+
+    .imgg {
+        width: 100%;
+    }
+
+    .arama {
+        display: none;
+    }
+
+    .canta {
+        display: none;
+    }
+    
+    .lorem1 {
+        padding-top: 30px;
+    }
+
+
+}
