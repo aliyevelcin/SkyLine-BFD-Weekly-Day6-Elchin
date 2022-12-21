@@ -184,7 +184,7 @@ li a {
     justify-content: center;
     align-content: center;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 180px;
 }
 
 .img5 {
@@ -211,7 +211,7 @@ li a {
 .navbar-2 {
     background-color: #F9F9F9;
     margin: 0;
-    height: 700px;
+    height: auto;
 }
 
 .bene {
@@ -220,7 +220,7 @@ li a {
 
 .benefitis {
     font-size: 30px;
-    padding-top: 30px;
+    padding-top: 150px;
     font-family: sans-serif;
 }
 
@@ -231,7 +231,7 @@ li a {
 }
 
 .lom {
-    width: 200px;
+    
     padding-left: 20px;
     font-size: 20px;
     padding-top: 20px;
@@ -249,10 +249,17 @@ li a {
     justify-content: space-between;
 }
 
+.adamlorem {
+    display: flex;
+     align-items: center;
+     padding-top: 70px;
+}
+
 .taklor {
     width: 490px;
     font-size: 20px;
-    margin-bottom: 30px;
+    padding-bottom: 110px;
+    padding-left: 100px;
 }
 
 .imgi {
@@ -285,6 +292,7 @@ li a {
 
 .take {
     font-family: sans-serif;
+    font-size: 30px;
 }
 
 .imgtak {
@@ -433,12 +441,16 @@ li a {
     color: white;
 }
 
+
+.axrinci2022{
+    background-color: #050000;
+    height: auto;
+}
+
 .axrinci {
     padding-top: 80px;
     display: flex;
     justify-content: space-evenly;
-    background-color: #050000;
-    height: 500px;
     font-family: sans-serif;
     color: #A8A8A8;
 }
@@ -467,12 +479,7 @@ li a {
     padding-bottom: 50px;
 }
 
-.tech {
-    padding-left: 100px;
-    color: #A8A8A8;
-    font-family: sans-serif;
-    margin-top: -50px;
-}
+
 
 .willclara {
     font-size: 13px;
@@ -482,17 +489,37 @@ li a {
 }
 
 .our {
-    display: block;
     color: white;
     font-family: sans-serif;
 }
-
-
-
-.alt-xett-son {
+.sonil{
     color: #A8A8A8;
-    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    
 }
+
+
+.axrinci-yazilar{
+    color: #A8A8A8;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.axrinci-yazilar:hover {
+    color: white;
+
+  }
+
+.qode {
+    color: #A8A8A8;
+    font-family: sans-serif;
+    font-weight: 100;
+    padding-left: 70px;
+    padding-top: 100px;
+
+}
+
 
 @media (min-width: 320px) and (max-width: 767px) {
     .imgi {
@@ -524,6 +551,8 @@ li a {
 
     .taklor {
         width: 100%;
+        padding-bottom:  0px;
+        padding-left: 0px
     }
 
     .cardlar6 {
@@ -538,7 +567,6 @@ li a {
 
     .taklor {
         font-family: sans-serif;
-        font-size: 30px;
     }
     .cardlar5 {
         display: block;
@@ -620,21 +648,36 @@ li a {
     .sekilyani {
         display: none;
     }
-
+    .axrinci-yazilar {
+        
+        text-align: justify;
+    }
     .imgtak {
         display: block;
     }
     .axrnci2022{
         height: auto;
+        
     }
     .axrinci {
-        text-align: justify;
         display: block;
         width: 100%;
-        height: auto;
-        text-align: center;
+        
     }
+    .axrinciloqo {
+        padding-left: 60px;
 
+    }
+    .contact {
+        padding-left: 60px;
+
+    }
+    .ourr {
+        padding-left: 60px;
+    }
+    .media {
+        padding-left: 60px;
+    }
     .reng {
         display: block;
         height: auto;
@@ -650,7 +693,9 @@ li a {
     .butonson {
         padding-bottom: 50px;
     }
-
+    .qode {
+        padding-left: 5px;
+    }
     .qara {
         width: 100%;
     }
@@ -682,3 +727,4 @@ li a {
 
 
 }
+
