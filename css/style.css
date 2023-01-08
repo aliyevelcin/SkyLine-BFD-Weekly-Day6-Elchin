@@ -70,7 +70,7 @@ body {
     padding-top: 20px;
     background-color: #F9F9F9;
     margin: 0;
-    ;
+    
 }
 
 .logo {
@@ -188,7 +188,7 @@ li a {
 }
 
 .img5 {
-    border-radius: 15px;
+    border-radius: 20px;
     height: 500px;
 
 }
@@ -322,7 +322,7 @@ li a {
 }
 
 .qara {
-    transition: 0.3s;
+  
     width: 350px;
 }
 
@@ -332,7 +332,6 @@ li a {
 
 .balacalar {
     padding-bottom: 10px;
-    /* color: #A8A8A8; */
 }
 
 .fa-sharp1 {
@@ -525,6 +524,10 @@ li a {
     .imgi {
         width: 100%;
     }
+     
+    .card-padding {
+        padding-bottom: 50px;
+    }
     .logo{
         padding-bottom: 50px;
     }
@@ -546,7 +549,7 @@ li a {
     }
 
     .benefitis {
-        padding-top: 350px;
+        padding-top: 50px;
     }
 
     .taklor {
@@ -590,6 +593,10 @@ li a {
     .logolar {
         display: block;
         text-align: center;
+        padding-bottom: 0px !important;
+    }
+    .logolar1 {
+        padding-bottom: 40px;
     }
 
     .arxa1 {

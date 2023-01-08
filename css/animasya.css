@@ -1,0 +1,95 @@
+.axrinci-yazilar{
+    padding-bottom: 0.25rem;
+    position: relative;
+}
+
+.axrinci-yazilar::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background-color: white;
+    transition: width 0.40s ease-out;
+}
+
+.yazilar-anima1:hover::before{
+    width: 70%;
+}
+
+.yazilar-anima2:hover::before{
+    width: 75%;
+}
+
+.yazilar-anima3:hover::before{
+    width: 90%;
+}
+
+.yazilar-anima4:hover::before{
+    width: 67%;
+}
+
+.yazilar-anima5:hover::before{
+    width: 70%;
+}
+
+.yazilar-anima6:hover::before{
+    width: 75%;
+}
+
+.yazilar-anima7:hover::before{
+    width: 100%;
+}
+
+.yazilar-anima8:hover::before{
+    width: 50%;
+}
+
+.yazilar-anima9:hover::before{
+    width: 70%;
+}
+
+.yazilar-anima10:hover::before{
+    width: 70%;
+}
+
+.yazilar-anima11:hover::before{
+    width: 55%;
+}
+.yazilar-anima12:hover::before{
+    width: 50%;
+}
+.yazilar-anima13:hover::before{
+    width: 60%;
+}
+.yazilar-anima14:hover::before{
+    width: 50%;
+}
+.yazilar-anima15:hover::before{
+    width: 55%;
+}
+.yazilar-anima16:hover::before{
+    width: 100%;
+}
+
+.sekil-1{
+    display: inline-block;
+  }
+  figure{
+    overflow: hidden;
+    border-radius: 20px;
+    margin: 0 0px;
+  }
+  .sekil-1 img{
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .sekil-1 #sekil-in figure img{
+    transform: scale(1);
+    transition: 0.9s ease-in-out;
+  }
+  .sekil-1 #sekil-in figure:hover img{
+    transform: scale(1.1);
+  }

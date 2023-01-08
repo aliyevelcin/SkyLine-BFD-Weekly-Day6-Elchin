@@ -1,12 +1,13 @@
+ 
 .navbarr {
     margin-top: 30px;
 }
-
-.navbarr ul li a{
+ 
+ ul li a{
     position: relative;
 }
-
-.navbarr ul li a::after{
+ 
+  ul li a::after{
 
     content: '';
     position: absolute;
@@ -17,11 +18,11 @@
     bottom: -4px;
     transition: 0.6s;
 }
-
-.navbarr ul li a:hover:after{
+ 
+ ul li a:hover:after{
 width: 100%;
 }
-
+ 
 .active::before{
     position: absolute;
     content: '';
@@ -33,9 +34,6 @@ width: 100%;
     transition: 0.6s;
 }
 
-.i i{
-    margin: 0 10px;
-}
 
 .nomre::after{
     content: '';
@@ -96,7 +94,7 @@ width: 100%;
 #myBtn:hover {
     transform: scale(1.1);
     background-color: #d7592e;
-    ;
+    
 }
 
 
@@ -207,7 +205,7 @@ width: 100%;
     color: rgb(0, 0, 0);
 }
 
-@media (min-width: 768px) and (max-width: 769px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .arxa1{
         display: none;
     }
